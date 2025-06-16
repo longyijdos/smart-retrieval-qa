@@ -25,7 +25,7 @@ LLM/
 ├── ref/                 # 检索相关模块
 │   ├── init.py          # 检索系统初始化
 │   ├── retrive.py       # 文本检索核心逻辑
-│   └── ref.txt          # 参考文档（大语言模型知识库）
+│   └── ref.txt          # 参考文档
 └── utils/               # 工具模块
     ├── __init__.py
     └── attr_dict.py     # 属性字典工具
